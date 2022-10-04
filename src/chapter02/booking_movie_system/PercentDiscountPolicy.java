@@ -1,6 +1,6 @@
 package chapter02.booking_movie_system;
 
-public class PercentDiscountPolicy extends DiscountPolicy {
+public class PercentDiscountPolicy extends DefaultDiscountPolicy {
 
     private double percent;
 
