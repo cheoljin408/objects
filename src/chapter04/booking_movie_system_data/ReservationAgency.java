@@ -1,4 +1,4 @@
-package chapter04;
+package chapter04.booking_movie_system_data;
 
 public class ReservationAgency {
 

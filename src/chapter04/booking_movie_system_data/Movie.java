@@ -1,4 +1,4 @@
-package chapter04;
+package chapter04.booking_movie_system_data;
 
 import java.time.Duration;
 import java.util.Collections;
